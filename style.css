@@ -8,6 +8,8 @@ h1{
 }
 p{
     text-align: center;
+    position: relative;
+    bottom: 1em;
 }
 header{
     background-color: #ff00005e;

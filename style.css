@@ -17,6 +17,13 @@ header{
 }
 audio{
     position: relative;
-    top: 7px;
+    bottom: 21.2em;
     right: 5px;
+}
+img{
+    height: 400px;
+    width: 340px;
+    position: relative;
+    right: 19em;
+    top: 5em;
 }

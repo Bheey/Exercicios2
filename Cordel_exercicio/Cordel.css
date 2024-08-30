@@ -50,15 +50,16 @@ div p{
 }
 div{
     background-attachment: fixed;
-    background-repeat: no-repeat;
     background-size: cover;
     background-position: center right;
     background-image: url(background001.jpg);
     padding: 4em 0em 4em 0em;
     margin: -1.3em -8px;
+    box-shadow: inset 6px 6px 13px 0px #000000;
 }
 .imagem2{
     background-image: url(background002.jpg);
+    box-shadow: inset 6px 6px 13px 0px #000000;
 }
 footer{
     background-color: #000000;
@@ -70,4 +71,5 @@ footer{
 }
 footer a{
     font-size: x-large;
+    font-family: "Sriracha", cursive;
 }

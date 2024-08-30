@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 body{
     background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header{
     background-color: #000000;

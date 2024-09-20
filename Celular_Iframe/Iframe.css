@@ -1,0 +1,52 @@
+@charset "UTF-8";
+body{  
+    font-family: Arial, Helvetica, sans-serif;
+    height: 97vh;
+    width: 98vw;
+    background-image: url(Celular/fundo-madeira.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+}
+main{
+    height: 98vh;
+    position: relative;
+}
+.pimba{
+    background-image: url(Celular/frame-iphone.png);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 311px;
+    height: 627px;
+}
+.lado img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0px 1px 10px 3px #000000;
+}
+.lado img:hover{
+    border: 2px solid #f5f5f5;
+    box-sizing: border-box;
+    transform: translate(-3px , -3px);
+    box-shadow: 0px 2px 10px 3px;
+    transition: transform .5s;
+}
+.lado{
+    text-align: right;
+}
+iframe.v33{
+    position: relative;
+    top: 78px;
+    left: 16px;
+    width: 275px;
+    height: 475px;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+

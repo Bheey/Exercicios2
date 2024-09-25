@@ -73,3 +73,7 @@ footer a{
     font-size: x-large;
     font-family: "Sriracha", cursive;
 }
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
